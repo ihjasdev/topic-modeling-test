@@ -1,0 +1,2 @@
+In this post we will describe the intuition and logic behind the most popular approach for Topic Modeling, the LDA, and see its limitation on short texts. Given this post is about Short Text Topic Modeling (STTM) we will not dive into the details of LDA. The reader willing to deepen his knowledge of LDA can find great articles and useful resources about LDA here and here.
+Then, in a second part, we will present a new approach for STTM and finally see in a third part how to easily apply it (fit/predict ✌️) on a toy dataset and evaluate its performance.
